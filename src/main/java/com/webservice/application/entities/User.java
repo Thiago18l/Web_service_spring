@@ -1,6 +1,5 @@
 package com.webservice.application.entities;
 
-import org.springframework.context.annotation.Primary;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
